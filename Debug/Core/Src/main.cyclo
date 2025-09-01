@@ -1,0 +1,12 @@
+../Core/Src/main.c:85:5:main	3
+../Core/Src/main.c:186:6:SystemClock_Config	3
+../Core/Src/main.c:234:13:MX_DAC_Init	3
+../Core/Src/main.c:274:13:MX_I2C2_Init	4
+../Core/Src/main.c:322:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:355:13:MX_DMA_Init	1
+../Core/Src/main.c:373:13:MX_GPIO_Init	1
+../Core/Src/main.c:409:6:decibelMeterHook	3
+../Core/Src/main.c:444:6:semaphoreHook	3
+../Core/Src/main.c:473:6:speakerHook	2
+../Core/Src/main.c:495:6:MPU_Config	1
+../Core/Src/main.c:526:6:Error_Handler	1

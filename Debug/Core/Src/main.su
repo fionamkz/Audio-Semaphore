@@ -1,0 +1,12 @@
+../Core/Src/main.c:85:5:main	160	static
+../Core/Src/main.c:186:6:SystemClock_Config	88	static
+../Core/Src/main.c:234:13:MX_DAC_Init	16	static
+../Core/Src/main.c:274:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:322:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:355:13:MX_DMA_Init	16	static
+../Core/Src/main.c:373:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:409:6:decibelMeterHook	112	static
+../Core/Src/main.c:444:6:semaphoreHook	24	static
+../Core/Src/main.c:473:6:speakerHook	24	static
+../Core/Src/main.c:495:6:MPU_Config	24	static
+../Core/Src/main.c:526:6:Error_Handler	4	static,ignoring_inline_asm
